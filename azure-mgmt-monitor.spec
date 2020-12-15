@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-monitor
 Version  : 0.9.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/45/32/8767fc3bb64e49acf5b5cc3c15cca3da89b17398069adf0a6a209af3a6c7/azure-mgmt-monitor-0.9.0.zip
 Source0  : https://files.pythonhosted.org/packages/45/32/8767fc3bb64e49acf5b5cc3c15cca3da89b17398069adf0a6a209af3a6c7/azure-mgmt-monitor-0.9.0.zip
 Summary  : Microsoft Azure Monitor Client Library for Python
